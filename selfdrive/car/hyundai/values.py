@@ -451,7 +451,8 @@ FEATURES = {
 
   "use_blinker_flash": {CAR.SONATA_LF_TURBO},
 
-  "use_ldws": False,
+#  "use_ldws": False,
+  "use_ldws": True,
 }
 
 DBC = {
